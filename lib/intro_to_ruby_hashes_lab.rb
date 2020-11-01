@@ -1,4 +1,4 @@
-def my_hash_creator(:breed, "Snowshoe")
+def my_hash_creator(key, value)
   { breed: "Snowshoe" }
 end
 
