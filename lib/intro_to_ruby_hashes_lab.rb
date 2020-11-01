@@ -1,5 +1,5 @@
 def my_hash_creator(:breed, "Snowshoe")
-  {:breed => "Snowshoe"}
+  { breed: "Snowshoe" }
 end
 
 def read_from_hash(hash, key)
